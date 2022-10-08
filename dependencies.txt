@@ -1,0 +1,9 @@
+keras done
+tensorflow nf
+dlib done
+imutils done
+sklearn nf
+cv2
+matplotlib not found
+numpy done
+scipy done
