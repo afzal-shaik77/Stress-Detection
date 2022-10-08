@@ -11,7 +11,7 @@ The stress level is calculated with the help of eyebrows contraction and displac
 left and right eyebrow is being calculated and then the stress level is calculated using exponential function and normalized between 1 to 100.  
 
 *** Important****
-Before running the eyebrow_detection.py first download file in the same folder using this [link][(https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2](https://drive.google.com/file/d/1Zx5ppm3GSHJezKl_WP72HiT8kbe-cNMu/view?usp=sharing))
+Before running the eyebrow_detection.py first download file in the same folder using this [link]:-(https://drive.google.com/file/d/1Zx5ppm3GSHJezKl_WP72HiT8kbe-cNMu/view?usp=sharing)
 
 
 ## Procedure:
